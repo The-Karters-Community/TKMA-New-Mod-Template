@@ -1,8 +1,8 @@
 ﻿using BepInEx;
 using BepInEx.Configuration;
 using NewModTemplate.Core;
-using TheKartersAssistant;
-using TheKartersAssistant.Event;
+using TheKartersModdingAssistant;
+using TheKartersModdingAssistant.Event;
 
 namespace NewModTemplate;
 
