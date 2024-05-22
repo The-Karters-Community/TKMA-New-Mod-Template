@@ -56,8 +56,8 @@
       <HintPath>../_references/mods/DisableLeaderboards.dll</HintPath>
     </Reference>
 
-    <Reference Include="TheKartersAssistantSdk">
-      <HintPath>../_references/mods/TheKartersAssistant.dll</HintPath>
+    <Reference Include="TheKartersModdingAssistantSdk">
+      <HintPath>../_references/mods/TheKartersModdingAssistant.dll</HintPath>
     </Reference>
 
     <Reference Include="SharpDX">
